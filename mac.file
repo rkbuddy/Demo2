@@ -1,6 +1,0 @@
-public static void main (String args[]) {
-int a = 10;
-int b = 3;
-int c = a+b;
-system.out.println(c);
-output = 10
